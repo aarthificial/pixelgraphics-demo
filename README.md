@@ -3,6 +3,10 @@ This is a simple showcase of [PixelGraphics](https://github.com/aarthificial/pix
 
 You can [play it on my itch.io](https://aarthificial.itch.io/pixelgraphics-demo)!
 
+This repo uses [Git Large File Storage](https://git-lfs.github.com/) to store image assets.<br>
+If you want to clone the repo, make sure that you have lfs installed on your machine.<br>
+Otherwise the sprites may be missing.
+
 ### Release video:
 [![Interactive Foliage Shaders for Unity](https://img.youtube.com/vi/ecYWvfMoRIM/maxresdefault.jpg)](https://youtu.be/ecYWvfMoRIM)
 
