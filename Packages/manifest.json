@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.aarthificial.pixelgraphics": "https://github.com/aarthificial/pixelgraphics.git",
-    "com.aarthificial.reanimation": "file:F:/projects/reanimator/reanimation",
+    "com.aarthificial.reanimation": "https://github.com/aarthificial/reanimation.git",
     "com.unity.2d.animation": "5.0.4",
     "com.unity.2d.pixel-perfect": "4.0.1",
     "com.unity.2d.psdimporter": "4.0.2",
